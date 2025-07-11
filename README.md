@@ -31,7 +31,7 @@
 ---
 
 ### 📜 Certifications:
-- ✅ [Exploratory Data Analysis – NASSCOM FutureSkills Prime](https://github.com/Saharshasamala1112/certificates/EDA_NASSCOM)
+- ✅ [Exploratory Data Analysis – NASSCOM FutureSkills Prime](https://github.com/Saharshasamala1112/certificates/NASSCOM-EDA)
 
 ---
 
@@ -45,7 +45,7 @@
 
 ### 📫 How to reach me:
 - 📧 Email: saharshasamala@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saharsha-samala/)
+- 🔗 [LinkedIn](www.linkedin.com/in/saharsha-samala-187b562b0)
 - 💼 Portfolio Website: *(Coming Soon)*
 
 ---
